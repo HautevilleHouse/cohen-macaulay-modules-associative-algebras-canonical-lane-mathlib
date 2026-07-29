@@ -1,0 +1,2 @@
+import CohenMacaulayModulesAssociativeAlgebrasCanonicalLaneLean.GateLemmas
+import CohenMacaulayModulesAssociativeAlgebrasCanonicalLaneLean.FinalTheorem
